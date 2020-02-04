@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Lab4
+namespace Lab4_Task11
 {
     public sealed class Task11
     {
